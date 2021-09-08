@@ -6,7 +6,7 @@ Maxime Simard
 
 Compiler dans Visual Studio.
 
-## Usage
+## Utilisation
 
 Utiliser les touches du clavier.\
 O - Ouvre le file explorer pour sélectionner une vidéo.\
