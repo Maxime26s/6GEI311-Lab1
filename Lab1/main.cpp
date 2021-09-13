@@ -11,8 +11,6 @@
 #include <dshow.h>
 #include "playback.h"
 
-#pragma comment(lib, "strmiids")
-
 DShowPlayer* g_pPlayer = NULL;
 
 LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam);
